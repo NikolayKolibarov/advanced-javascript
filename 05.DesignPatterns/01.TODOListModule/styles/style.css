@@ -1,0 +1,42 @@
+#wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+div {
+    padding: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    display: inline-block;
+    text-decoration: underline;
+}
+
+#container {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#sectionContainer {
+    border: 1px solid black;
+}
+
+.addItemDiv {
+    margin-left: 335px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;
+}
+
+h3 {
+    margin-left: 400px;
+}
